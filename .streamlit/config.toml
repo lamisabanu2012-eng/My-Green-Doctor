@@ -1,0 +1,16 @@
+# =============================================================================
+# 🌿 My Green Doctor - Theme Configuration
+# =============================================================================
+# Educational Project: Class 8 | Central Syllabus | Agricultural Science
+# Developed by: Lamisa Banu
+# =============================================================================
+
+[theme]
+# Natural Green Theme - Perfect for plant/agriculture education
+base = "light"
+primaryColor = "#2E7D32"              # Forest green - buttons, links, accents
+backgroundColor = "#FFFFFF"            # Clean white background
+secondaryBackgroundColor = "#E8F5E9"  # Light mint green - cards, sidebars
+textColor = "#1B5E20"                  # Dark green text for readability
+font = "sans-serif"                    # Clean, modern font
+
