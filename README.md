@@ -613,8 +613,7 @@ This project is for educational and demonstration purposes.
 
 For questions, suggestions, or collaboration:
 
-- **Project Website**: [Add URL if deployed]
-- **Documentation**: See `PROJECT_DOCUMENTATION.md`
+- **Project Website**: [https://my-green-doctor-arodpwo4jezz24jtnkm3u8.streamlit.app/](https://my-green-doctor-arodpwo4jezz24jtnkm3u8.streamlit.app/)
 - **Issues**: [Create an issue on GitHub](../../issues)
 
 ---
